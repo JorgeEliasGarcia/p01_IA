@@ -1,0 +1,7 @@
+1-->3-->4
+Coste del camino: 20
+
+Nodos inspeccionados: 1, 3, 5, 7, 4
+
+Nodos generados     : 1, 2, 3, 4, 5, 7
+
